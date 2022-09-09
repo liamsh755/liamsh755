@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @liamsh755
-- 👀 android apps :D
-- 🌱 c#
+- 👀 Interested in app development
+- 🌱 Learning c#
 - 📫 kaftor06@gmail.com
 
 <!---
